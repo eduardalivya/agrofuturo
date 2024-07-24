@@ -19,11 +19,11 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin: 20px 0;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(94, 168, 87, 0.1);
+    box-shadow: 0 0 10px rgba(10, 17, 9, 0.1);
 }
 
 img {
@@ -38,5 +38,5 @@ footer {
     color: white;
 }
 .imagem{
-    width: 60pc;
+    width: 50pc;
 }
