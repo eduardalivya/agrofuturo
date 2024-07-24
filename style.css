@@ -1,0 +1,22 @@
+/*Seletor universal - todos vao ter essa formataçao*/
+={margin: 2px; 
+    padding: auto;
+}
+header{
+    background-color: darkgreen; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+section{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: ghostwhite;
+    margin: 10px 0 ;
+    padding: 10px 20px;
+}
+div{
+    padding: 30px;
+}
