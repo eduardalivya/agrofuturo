@@ -1,6 +1,6 @@
 
 header{
-    background-color: darkgreen; 
+    background-color: darkgreen; /*cor de fundo*/
     display: flex;
     align-items: center;
     justify-content: space-between;
